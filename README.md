@@ -1,5 +1,6 @@
 **Hi, I'm Coen!**
 
+- Proxies, Linux Emulators, web operating systems, KasmVNC and generally anything useful for evading school blocking and internet censorship filters.
 - Interested in various weather projects including Intellistar-type systems and the Emergency Alert Systems
 - Not very good at it.
 <!---
